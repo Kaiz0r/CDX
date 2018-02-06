@@ -1,0 +1,3 @@
+[Public]
+Preferences=(Caption="Deus Ex Classes (DXAG+)",Parent="Advanced Options")
+Preferences=(Caption="CDX",Parent="Deus Ex Classes (DXAG+)",Class=CDX.cMut,Immediate=True)
