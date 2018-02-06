@@ -1,5 +1,12 @@
 ## Welcome to CDX
 
-CDX is a remake of he old DXAG mod for DXMP, allowing for new features and more map potential.
+Download: [Github Release](https://github.com/Kaiz0r/CDX/releases)
 
-Places the cTeleporter objects under Triggers in any map, set up the properties to any of the default classes, or set a custom class, and place the cMut mutator object, and any map is ready to go.
+CDX is a remake of the old DXAG mod for DXMP, allowing for new features and more map potential.
+
+Places the cTeleporter objects, found under Triggers in the Editor, in any map, set up the properties to any of the default classes, or set a custom class, and place the cMut mutator object, and any map is ready to go.
+
+## Current mod progress
+- [ ] Better documentation
+- [ ] Squash more bugs
+- [ ] More maps
